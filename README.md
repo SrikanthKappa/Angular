@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularComponents
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.11.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Angular
+Angular tutorial
+>>>>>>> 6bb154b6374b9dfdedf56b7e061c0b4d1d39c363
